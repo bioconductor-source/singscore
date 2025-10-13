@@ -2,4 +2,6 @@
 .Rhistory
 .Rproj.user/
 singscore.Rproj
-.Rproj.user
+.Rproj.user.Rprofile
+renv/
+tests/testthat/testthat-problems.rds
